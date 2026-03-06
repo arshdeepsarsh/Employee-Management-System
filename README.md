@@ -8,8 +8,10 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-A full-stack HR management dashboard built using Spring Boot + MySQL + Modern JavaScript UI.
-This system allows organizations to manage employees, departments, analytics, and reports through a clean admin dashboard.
+
+A full-stack **HR management dashboard** built using **Spring Boot, MySQL, and Vanilla JavaScript**.
+
+The system allows administrators to manage employees, departments, analytics reports, and export employee data as PDF — all through a modern dashboard interface.
 
 ---
 
