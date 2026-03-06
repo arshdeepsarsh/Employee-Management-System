@@ -90,16 +90,16 @@ Admin Dashboard
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Screenshots/dashboard.png.png)
 
 ### Departments
-![Departments](Screenshots/department.png)
+![Departments](Screenshots/department.png.png)
 
 ### Reports
-![Reports](Screenshots/reports.png)
+![Reports](Screenshots/reports.png.png)
 
 ### Login
-![Login](Screenshots/login_page.png)
+![Login](Screenshots/login_page.png.png)
 
 ---
 
